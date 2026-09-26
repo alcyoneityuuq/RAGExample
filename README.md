@@ -13,14 +13,14 @@ Legal RAG
 - 内网穿透：natapp / cpolar
 
 ## 项目结构
-project/
-  main.py            # 入口文件
-  config.ini         # 配置文件（API Key）
-  FrontEnd/          # 前端页面
-  RearEnd/           # 后端接口
-  models/            # BGE 模型文件
-  db/                # ChromaDB 向量库
-  pdf/               # PDF 文件
+- project/
+  - main.py            # 入口文件
+  - config.ini         # 配置文件（API Key）
+  - FrontEnd/          # 前端页面
+  - RearEnd/           # 后端接口
+  - models/            # BGE 模型文件
+  - db/                # ChromaDB 向量库
+  - pdf/               # PDF 文件
 
 ## 使用方式
 
