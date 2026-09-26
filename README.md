@@ -26,7 +26,7 @@ Legal RAG
 
 1.启动服务
 ```javascript
-uvicorn main:app --host 127.0.0.1 --port 8001
+uvicorn main:app --port 8001
 ```
 2.在浏览器直接访问命令行给出的网址即可使用
 
